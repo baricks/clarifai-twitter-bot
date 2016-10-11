@@ -1,0 +1,19 @@
+{
+  "name": "clarifai-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.14.0",
+    "clarifai": "^2.0.9",
+    "express": "^4.14.0",
+    "rita": "^1.1.40",
+    "tracery-grammar": "^2.7.2",
+    "twit": "^2.2.5"
+  }
+}
